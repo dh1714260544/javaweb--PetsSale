@@ -1,4 +1,4 @@
-# java--网上宠物商城
+# javaWeb--网上宠物商城（毕业设计）
 开发语言 jsp+mysql+html
 开发环境 eclipse+tomcat8.0+mysql数据库
 展示图片 ：https://github.com/RAOE/java-----/blob/master/show.png
