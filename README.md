@@ -1,4 +1,4 @@
-# javaWeb--网上宠物商城（毕业设计）
+# javaWeb--网上宠物商城
 
 开发语言 jsp+mysql+html
 
